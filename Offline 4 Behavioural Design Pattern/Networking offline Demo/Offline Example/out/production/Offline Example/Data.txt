@@ -1,6 +1,0 @@
-antik#1234#admin
-purba#1234#normal
-tanjim#2345#normal
-sadat#1234#normal
-najib#123#normal
-harry#2000#normal

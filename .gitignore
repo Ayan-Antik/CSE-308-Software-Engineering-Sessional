@@ -1,0 +1,6 @@
+**/.idea/
+*.zip
+**/lib/
+*.iml
+**/out/
+*.mp4
